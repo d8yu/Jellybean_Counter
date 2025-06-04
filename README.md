@@ -1,3 +1,3 @@
 # Jellybean_Counter
 The final project for EEC 1-Spring 2025
-!alt Readmephoto.jpg
+![Circuit] ReadmePhoto.jpg
